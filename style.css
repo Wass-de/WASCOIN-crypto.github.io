@@ -1,0 +1,32 @@
+body {
+    background-color: #2c3e50;
+    justify-content: flex-end;
+}
+
+h1 {
+  font-family: Roboto;
+  font-weight: bold;
+  color: #FFFF;
+  position: absolute;
+  left: 18px;
+  top: 12px;
+}
+
+.photo-profile {
+  position: absolute;
+  left: 281px;
+  top: 8px;
+
+}
+
+.bottom {
+  position: absolute;
+  left: 0px;
+  top: 286px;
+}
+
+.center {
+  position: absolute;
+  left: 123px;
+  top: 120px;
+}
